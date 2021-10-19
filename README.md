@@ -5,3 +5,5 @@ Tool should be used by invoking script file with phrase to search in packages na
 
 ./packsbyname.sh [phrase to search]
 
+'dotnet-sdk-3.1' or higher package is necessary to run project.
+
