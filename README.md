@@ -5,4 +5,4 @@ Tool should be used by invoking script file with phrase to search in packages na
 
 ./packsbyname.sh [phrase to search]
 
-'dotnet-runtime-3.1' or higher and 'yay' is necessary to run project. You can use Pacman instead of Yay (or another package manager) by adjustment 'packsbyname.sh'.
+'dotnet-sdk-3.1' or higher and 'yay' is necessary to run project. You can use Pacman instead of Yay (or another package manager) by adjustment 'packsbyname.sh'.
