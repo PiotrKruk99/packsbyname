@@ -1,4 +1,4 @@
-#warning
+# warning
 Project will be no longer developed. Please look at https://github.com/PiotrKruk99/packsbyname-python for Python's solution about packages search problem.
 
 # packsbyname
